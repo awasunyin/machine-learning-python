@@ -1,6 +1,7 @@
 import urllib2
 import sys
 
+# sneak peak into the data available
 # read data from uci data repository
 target_url = ('https://archive.ics.uci.edu/ml/machine-learning-'
 'databases/undocumented/connectionist-bench/sonar/sonar.all-data')
